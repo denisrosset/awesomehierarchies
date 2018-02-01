@@ -2,7 +2,7 @@
 
 ## Hierarchy types
 
-### Symmetric extensions
+### Symmetric extensions, DPS hierarchy
 
 Separable vs. entangled states, convergent outer approximations
 
@@ -35,3 +35,52 @@ See below for applications.
 
 ## Applications: Bell scenarios
 
+### Characterizing the set of quantum correlations
+
+- Short NPA paper [Navascues Pironio Acin 2007](http://link.aps.org/doi/10.1103/PhysRevLett.98.010401)
+- Long NPA paper [Navascues Pironio Acin 2008](http://iopscience.iop.org/1367-2630/10/7/073013)
+- Related work [Doherty Liang Toner Wehner 2008](https://arxiv.org/abs/0803.4373)
+
+### Quantum bounds for inequalities
+
+- For 241 bipartite Bell inequalities, [Pal and Vertesi 2008](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.79.022120)
+
+### Restricting to PPT states
+
+- NPA-type hierarchy [Moroder et al. 2013](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.030501)
+  with list of operators corresponding to a tensor CP map.
+  Shows in particular how to restrict the optimization in the NPA over PPT states
+  => lower bound on the negativity
+  
+### Restricting to maximally entangled states
+
+- [Lang Vertesi Navascues 2014](http://iopscience.iop.org/article/10.1088/1751-8113/47/42/424029/meta)
+  See Definition 13 (arXiv version), uses a truncated tracial moments hierarchy.
+
+### Restricting the dimension
+
+Using the DPS hierarchy
+
+- Paper [Navascues, de la Torre, Vertesi 2014](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.011011)
+
+Using sampling
+
+- Short paper [Navascues Vertesi 2015](http://link.aps.org/doi/10.1103/PhysRevLett.115.020501)
+- Long paper [Navascues Feix Araujo Vertesi 2015](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.042117)
+
+### Recovering states from correlations
+
+By modifying the list of operators of [Moroder et al. 2013](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.030501),
+the map can be made trace preserving as observed in [Toth, Moroder, Guhne 2015, Supp. Mat.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.160501) and [Chen, Burdoni, Liang, Chen 2016, Appendix A](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.240401).
+
+This allows device-independent entanglement quantification.
+
+### Self testing
+
+To be completed.
+
+## Applications: other scenarios
+
+### Sequential measurements
+
+### Prepare and measure
