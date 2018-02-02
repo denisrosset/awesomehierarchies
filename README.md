@@ -40,6 +40,8 @@ See below for applications.
 - Short NPA paper [Navascues Pironio Acin 2007](http://link.aps.org/doi/10.1103/PhysRevLett.98.010401)
 - Long NPA paper [Navascues Pironio Acin 2008](http://iopscience.iop.org/1367-2630/10/7/073013)
 - Related work [Doherty Liang Toner Wehner 2008](https://arxiv.org/abs/0803.4373)
+- Additional constraints for the bipartite case [Berta Fawzi Scholz 2016](http://epubs.siam.org/doi/10.1137/15M1037731)
+- As a linear conic program on the cone of completely positive semidefinite matrices [Sikora Varvitsiotis 2016](https://link.springer.com/article/10.1007%2Fs10107-016-1049-8)  
 
 ### Quantum bounds for inequalities
 
